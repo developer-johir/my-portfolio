@@ -1,0 +1,11 @@
+.blog-container{
+    padding: 150px 0;
+}
+
+.blog-title{
+    font-size: 50px;
+    font-style: italic;
+    color: brown;
+    text-align: center;
+    align-items: center;
+}
